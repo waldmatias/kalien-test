@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "setup": "deno run -A setup.ts"
+  },
+  "imports": {
+    "effect": "npm:effect@^3.21.0"
+  }
+}
