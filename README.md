@@ -1,1 +1,1 @@
-Birth.
+An Effectful script to download pre-compiled binaries from Releases.
